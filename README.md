@@ -33,7 +33,7 @@ Harvest area explains most of the variation in production; the climate features 
 
 ## How to run
 
-Open the notebook in [Google Colab](https://colab.research.google.com/drive/1DjMBkiCQRPIhDABzqDNQ9ZQyBA8b4ajp?usp=sharing) and run all cells. No API key is required.
+Open the notebook in [Google Colab](https://colab.research.google.com/drive/1y3-AbfilvYfRFE81-qeacfc4X8uAyZoH) and run all cells. No API key is required.
 
 Video presentation: https://youtu.be/Ot1BI5HGRxc
 
