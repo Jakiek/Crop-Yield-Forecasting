@@ -40,6 +40,6 @@ Video presentation: https://youtu.be/Ot1BI5HGRxc
 ## Team
 
 - Naufal Dzaky
-- [Teammate's name]
+- Diaz Amantajati Susilo
 
 **Tech:** Python, NumPy, pandas, Matplotlib, Requests
